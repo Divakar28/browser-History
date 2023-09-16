@@ -1,0 +1,28 @@
+.list {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+}
+.list-items {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.list-history {
+  display: flex;
+  align-items: center;
+  width: 90%;
+}
+.img {
+  padding: 10px;
+  margin: 15px;
+}
+.btn {
+  background-color: transparent;
+  border-width: 0;
+  cursor: pointer;
+}

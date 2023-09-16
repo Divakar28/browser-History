@@ -1,0 +1,24 @@
+.history-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #3367d6;
+  color: white;
+  font-family: 'Roboto';
+  padding: 10px;
+}
+.search-bar {
+  display: flex;
+}
+.search-icon {
+  margin: 10px;
+  background-color: #2850a7;
+  padding: 10px;
+}
+.search-con {
+  width: 40vw;
+  height: 6vh;
+  margin-top: 15px;
+  background-color: #2850a7;
+  color: white;
+}
